@@ -59,10 +59,10 @@ tel: +1(650)-686-1368
 
 # Members information. Shown on About page.
 members:
-  - name: Collin Cooke
+  - name: Colin Cooke
     position: PhD
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+    img: colin.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -71,7 +71,7 @@ members:
   - name: Shiqi Xu
     position: PhD
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    img: shiqi.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -80,7 +80,7 @@ members:
   - name: Ling Zhong
     position: PhD
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    img: ling.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -89,7 +89,7 @@ members:
   - name: Wenhui Liu
     position: Visiting PhD, Tsinghua
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
+    img: wenhui.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
