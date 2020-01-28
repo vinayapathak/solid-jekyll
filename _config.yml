@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: COL@Duke.
+description: "At the intersection of machine learning and microscopy"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -48,19 +48,19 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
+    - Fitzpatrick Center (CIEMAS) 2569, Duke University
+    - 27710, NC,
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+email: hrwh4@duke.edu
+tel: +1(650)-686-1368
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
+  - name: Collin Cooke
+    position: PhD
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
     social:
@@ -68,8 +68,8 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
+  - name: Shiqi Xu
+    position: PhD
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
     social:
@@ -77,8 +77,8 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
+  - name: Ling Zhong
+    position: PhD
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team03.jpg
     social:
@@ -86,8 +86,8 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
+  - name: Wenhui Liu
+    position: Visiting PhD, Tsinghua
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team04.jpg
     social:
